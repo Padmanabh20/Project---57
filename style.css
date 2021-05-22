@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+   background:linear-gradient(#42f58a 0%,#3de0f2 100%);     
+}
+.profile{
+    width:180px;
+    margin-bottom:50px;
+    border:50px;
+}
+#welcome{
+ 
+   
+}
+
+
+.line{
+    height:6px;
+    background-color:red;
+    width:80px;
+    margin:8px auto;
+}
+#bio{
+    height:500px;
+    padding:20px;
+    font-size:30px;
+    text-align:center;
+}
+img{
+    border-radius:50%;
+    width:100px;
+}
